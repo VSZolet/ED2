@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1540157002 source:f:\download\faculdade\ed2\buscaarvoreb.c
+	"arvoreb.h"
+
+1540407589 f:\download\faculdade\ed2\arvoreb.h
+	<stdio.h>
+	<stdlib.h>
+
+1539995665 source:f:\download\faculdade\ed2\criaarvoreb.c
+	"arvoreb.h"
+
+1540350644 source:f:\download\faculdade\ed2\inserearvoreb.c
+	"arvoreb.h"
+
+1540412794 source:f:\download\faculdade\ed2\mainarvoreb.c
+	"arvoreb.h"
+
+1539995427 source:f:\download\faculdade\ed2\printarvoreb.c
+	"arvoreb.h"
+
+1540423174 source:f:\download\faculdade\ed2\removearvoreb.c
+	"arvoreb.h"
+
